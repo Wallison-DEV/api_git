@@ -1,0 +1,9 @@
+root = true    #Isso indica que esse é o editor principal do código
+
+[*]   #Isso indica que deve ser usado em todos os arquivos
+indent_style = space  #Isso indica com base no que será a nossa identação, se será com base em espaços ou tabs
+indent_size = 2   #Isso indica de quantos espaços será a identação padrão
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false #Obriga o uso de espaços após símbolos e pontos
+insert_final_newline = true
